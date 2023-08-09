@@ -37,7 +37,7 @@ The dataset used for training and evaluating the models consists of a collection
 
 ## Results
 
-The trained models demonstrate strong predictive capabilities, accurately classifying passwords into different strength categories. You can input passwords and receive instant strength classification from the three models used.
+The trained models demonstrate strong predictive capabilities, classifying passwords into different strength categories. You can input passwords and receive instant strength classification from the three models used.
 
 ## Contributing
 
