@@ -1,6 +1,6 @@
 # Password Strength Prediction using Machine Learning
 
-This repository contains the code and resources for a machine learning project that predicts the strength of passwords based on various features extracted from the password text. The project uses a combination of text processing techniques, feature extraction, and ensemble learning algorithms to classify passwords into weak, medium, or strong categories.
+This repository contains the code and resources for a machine learning project that predicts the strength of passwords based on features extracted from the password text. The project uses a combination of text processing techniques, feature extraction, and ensemble learning algorithms to classify passwords into weak, medium, or strong categories.
 
 ## Table of Contents
 - [Overview](#overview)
