@@ -19,8 +19,6 @@ In today's digital age, passwords play a crucial role in securing our online ide
 
 - Text processing and feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency).
 - Ensemble learning models, including Random Forest Classifier and Gradient Boosting Classifier, for accurate strength prediction.
-- User-friendly UI for password input and real-time strength assessment.
-- Educational resources on password security and best practices.
 
 ## Dataset
 
