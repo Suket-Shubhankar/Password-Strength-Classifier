@@ -10,7 +10,6 @@ This repository contains the code and resources for a machine learning project t
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
