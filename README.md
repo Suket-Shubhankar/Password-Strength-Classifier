@@ -29,7 +29,7 @@ The dataset used for training and evaluating the models consists of a collection
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/Suket-Shubhankar/Password-Strength-Classifier.git`
-2. Navigate to the project directory: `cd password-strength-prediction`
+2. Navigate to the project directory: `cd Password-Strength-Classifier`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
